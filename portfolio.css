@@ -85,7 +85,7 @@ nav ul li a:hover:after{
 }
 
 #about{
-    padding: 5rem 0 ;
+    padding: 3rem 0 ;
     color: #ababab;
 }
 
@@ -108,7 +108,7 @@ nav ul li a:hover:after{
 
 .about-col-2{
     flex-basis: 60%;
-    line-height: 1.6rem;
+    line-height: 1.4rem;
 }
 
 .sub-title{
