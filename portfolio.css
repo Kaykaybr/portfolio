@@ -21,7 +21,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/alesia-kazantceva-dhD_FiNkuzw-unsplash-removebg.png);
+    background-image: url(alesia-kazantceva-dhD_FiNkuzw-unsplash-removebg.png);
     background-size: cover;
     background-position: center;
 }
@@ -100,7 +100,7 @@ nav ul li a:hover:after{
 }
 
 .about-col-1 img{
-    width: 90%;
+    width: 80%;
     height: 100%;
     border-radius: 1.2rem;
     background-color: #ababab;
@@ -437,7 +437,7 @@ nav .fas{
 
 
     #header{
-        background-image: url(images/phone.png);
+        background-image: url(phone.png);
     }
 
 
