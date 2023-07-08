@@ -96,7 +96,7 @@ nav ul li a:hover:after{
 }
 
 .about-col-l{
-    flex-basis: 35%;
+    flex-basis: 32%;
 }
 
 .about-col-1 img{
@@ -107,7 +107,7 @@ nav ul li a:hover:after{
 }
 
 .about-col-2{
-    flex-basis: 60%;
+    flex-basis: 63%;
     line-height: 1.2rem;
 }
 
@@ -433,7 +433,7 @@ nav .fas{
     display: none;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 700px){
 
 
     #header{
